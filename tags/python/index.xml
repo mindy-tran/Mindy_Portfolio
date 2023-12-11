@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Python on Mindy Tran&#39;s Portfolio</title>
+    <link>https://mindy-tran.github.io/Mindy_Portfolio/tags/python/</link>
+    <description>Recent content in Python on Mindy Tran&#39;s Portfolio</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <atom:link href="https://mindy-tran.github.io/Mindy_Portfolio/tags/python/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Project 1: Optimally choose targets for CRISPR/Cas9</title>
+      <link>https://mindy-tran.github.io/Mindy_Portfolio/post/project-1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://mindy-tran.github.io/Mindy_Portfolio/post/project-1/</guid>
+      <description> Plesa Lab, unpublished Independently designed a modular data pipeline in R/Python to optimize the output of DropSynth, a novel gene assembly technology developed in the Calin Plesa Lab Collaborated with interdisciplinary lab researchers, prototyped iterations, and implemented feedback from my PI and PhD-level researchers to refine my data pipeline Performed data labeling, cleaning, and modeling to process 2M+ data points and identify target sequences from NGS and protein sequencing data Presented data processing solutions to technical and non-technical audiences at symposiums and conferences after prototyping workflow diagrams Preparing to publish our research and technology developments in 2024 before deploying the gene synthesis tool to R&amp;amp;D institutes and biotechnology startups in the United States Data Pipeline Poster </description>
+    </item>
+    <item>
+      <title>Project 4: Deep Feed-Forward Neural Networks: Regression and Classification models</title>
+      <link>https://mindy-tran.github.io/Mindy_Portfolio/post/project-4/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://mindy-tran.github.io/Mindy_Portfolio/post/project-4/</guid>
+      <description>Link to GitHub Repository&#xA;Images from the MNIST dataset Identified images in the MNIST dataset by implementing two deep feed-forward neural networks in PyTorch, treating the identification as a regression problem and a classification problem.&#xA;I compare the regression and classification models and provide summary statistics about their efficacy&#xA;For the regression-neural-network, evaluating on the training data showed a MAE of 0.5291415 and a MER of 0.3993. Evaluating on the testing data showed a MAE of 0.</description>
+    </item>
+    <item>
+      <title>Project 5: Decision Trees and Random Forest Classification</title>
+      <link>https://mindy-tran.github.io/Mindy_Portfolio/post/project-5/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://mindy-tran.github.io/Mindy_Portfolio/post/project-5/</guid>
+      <description>Link to GitHub Repository&#xA;Decision Tree Classification&#xA;Implemented a decision tree classifier from scratch Used the iris dataset to train and test my decision tree model. Assessed the accuracy of your technique using k-fold validation and created visualizations using my model. Results: The purple-colored species has a very consistent petal area and is distinct from the petal areas of the other two species. In comparison, as sepal area increases for the teal-colored species, the petal area also increases and can be less distinguishable from the yellow-colored species.</description>
+    </item>
+    <item>
+      <title>Project 7: Linear Regression in Python to Predict Abalone Age</title>
+      <link>https://mindy-tran.github.io/Mindy_Portfolio/post/project-7/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://mindy-tran.github.io/Mindy_Portfolio/post/project-7/</guid>
+      <description>Link to GitHub Repository&#xA;Constructed a linear model which predicts the age of an Abalone Processed Abalone data with over 41k data points. Constructed a linear model which predicts the age of an Abalone using SciKit-Learn, a popular library for data science Evaluated the model using the Mean Absolute Error and Mean Absolute Percentage Error for the train and test data </description>
+    </item>
+  </channel>
+</rss>

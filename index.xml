@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mindy Tran on Mindy Tran&#39;s Portfolio</title>
+    <link>https://mindy-tran.github.io/Mindy_Portfolio/</link>
+    <description>Recent content in Mindy Tran on Mindy Tran&#39;s Portfolio</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 02 Mar 2017 12:00:00 -0500</lastBuildDate>
+    <atom:link href="https://mindy-tran.github.io/Mindy_Portfolio/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>https://mindy-tran.github.io/Mindy_Portfolio/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://mindy-tran.github.io/Mindy_Portfolio/about/</guid>
+      <description>B.S. Data Science (concentration in Biology). Minor in Biology. I&amp;rsquo;m passionate about bioinformatics and science communication.&#xA;My name is Mindy Tran and I&amp;rsquo;ve conducted bioinformatics research for 3+ years and worked in biology research for 4 years. I was also a business consultant for over a year, and was the Science Communication lead for a Bronze Medal winning iGEM team.&#xA;With my hunger for a challenge and analytical expertise, I want to leverage my exceptional collaborative, analytical, and science communication expertise to create effective, impactful data solutions.</description>
+    </item>
+    <item>
+      <title>Contact</title>
+      <link>https://mindy-tran.github.io/Mindy_Portfolio/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://mindy-tran.github.io/Mindy_Portfolio/contact/</guid>
+      <description>Feel free to reach out. I&amp;rsquo;d love to get connected!&#xA;Platform URL LinkedIn: https://www.linkedin.com/in/mindy-tran/ GitHub: https://github.com/mindy-tran </description>
+    </item>
+    <item>
+      <title>Project 1: Optimally choose targets for CRISPR/Cas9</title>
+      <link>https://mindy-tran.github.io/Mindy_Portfolio/post/project-1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://mindy-tran.github.io/Mindy_Portfolio/post/project-1/</guid>
+      <description> Plesa Lab, unpublished Independently designed a modular data pipeline in R/Python to optimize the output of DropSynth, a novel gene assembly technology developed in the Calin Plesa Lab Collaborated with interdisciplinary lab researchers, prototyped iterations, and implemented feedback from my PI and PhD-level researchers to refine my data pipeline Performed data labeling, cleaning, and modeling to process 2M+ data points and identify target sequences from NGS and protein sequencing data Presented data processing solutions to technical and non-technical audiences at symposiums and conferences after prototyping workflow diagrams Preparing to publish our research and technology developments in 2024 before deploying the gene synthesis tool to R&amp;amp;D institutes and biotechnology startups in the United States Data Pipeline Poster </description>
+    </item>
+    <item>
+      <title>Project 2: ML Hierarchical Clustering Analysis on Single-Cell Sequencing Data</title>
+      <link>https://mindy-tran.github.io/Mindy_Portfolio/post/project-2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://mindy-tran.github.io/Mindy_Portfolio/post/project-2/</guid>
+      <description> Clustering of ss-RNA seq data from the Sylwestrak Lab, isolated neuron populations Link to Written Report&#xA;Studied the impact of chronic morphine use on gene expression in the habenula and results suggest that there are cell populations within the habenula that impact mechanisms that drive addiction Implemented scripts in R to apply machine learning, hierarchical clustering, PCA, and statistical models to NGS sequencing data from the Emily Sylwestrak Lab to identify key genes in opioid-related neurons Analyzed high throughput single-cell RNA sequencing data from Drop-seq to study the genetic basis for neuropsychiatric disorders like addiction and depression </description>
+    </item>
+    <item>
+      <title>Project 3: Concussion Biosensor</title>
+      <link>https://mindy-tran.github.io/Mindy_Portfolio/post/project-3/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://mindy-tran.github.io/Mindy_Portfolio/post/project-3/</guid>
+      <description> UOregon iGEM Team at the 2022 iGEM Jamboree. Paris, FR. Link to iGEM Team Website Link to Team Twitter&#xA;Science Communication Lead for the University of Oregon team to compete in the iGEM Competition for Synthetic Biology Bronze Medal Team 2022 Prototyped a rapid and low-cost diagnostic device to detect concussion (mTBI) biomarkers collaborating with a team of 12 cross-disciplinary undergraduate students Presented to a panel of interdisciplinary judges at the iGEM Jamboree 2022, an international synthetic biology competition Launched and managed the team&amp;rsquo;s Twitter page leveraging comparative review and content campaigning, boosting the visibility of our concussion research attaining 300+ social media interactions from researchers and biotech leaders Created the team&amp;rsquo;s promotional video communicating the team&amp;rsquo;s biosensor research leveraging storytelling to engage technical and non-technical audiences Spearheaded talent acquisition of undergraduate scientists to join the team through class visits, presentations, and recruitment videos </description>
+    </item>
+    <item>
+      <title>Project 4: Deep Feed-Forward Neural Networks: Regression and Classification models</title>
+      <link>https://mindy-tran.github.io/Mindy_Portfolio/post/project-4/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://mindy-tran.github.io/Mindy_Portfolio/post/project-4/</guid>
+      <description>Link to GitHub Repository&#xA;Images from the MNIST dataset Identified images in the MNIST dataset by implementing two deep feed-forward neural networks in PyTorch, treating the identification as a regression problem and a classification problem.&#xA;I compare the regression and classification models and provide summary statistics about their efficacy&#xA;For the regression-neural-network, evaluating on the training data showed a MAE of 0.5291415 and a MER of 0.3993. Evaluating on the testing data showed a MAE of 0.</description>
+    </item>
+    <item>
+      <title>Project 5: Decision Trees and Random Forest Classification</title>
+      <link>https://mindy-tran.github.io/Mindy_Portfolio/post/project-5/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://mindy-tran.github.io/Mindy_Portfolio/post/project-5/</guid>
+      <description>Link to GitHub Repository&#xA;Decision Tree Classification&#xA;Implemented a decision tree classifier from scratch Used the iris dataset to train and test my decision tree model. Assessed the accuracy of your technique using k-fold validation and created visualizations using my model. Results: The purple-colored species has a very consistent petal area and is distinct from the petal areas of the other two species. In comparison, as sepal area increases for the teal-colored species, the petal area also increases and can be less distinguishable from the yellow-colored species.</description>
+    </item>
+    <item>
+      <title>Project 6: Agglomerative and Divisive Clustering on Paris Housing Data</title>
+      <link>https://mindy-tran.github.io/Mindy_Portfolio/post/project-6/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://mindy-tran.github.io/Mindy_Portfolio/post/project-6/</guid>
+      <description>Link to GitHub Repository&#xA;In this project I apply two different hierarchical clustering algorithms (agglomerative and divisive) to cluster Paris housing data&#xA;Studied the categories of homes in Paris in an unsupervised way based on how big the house is (square footage) and the price. I wanted to determine how many distinct types of homes there are in Paris.&#xA;I determine that the Agglomerative algorithm I used was more “good” than the Divisive algorithm.</description>
+    </item>
+    <item>
+      <title>Project 7: Linear Regression in Python to Predict Abalone Age</title>
+      <link>https://mindy-tran.github.io/Mindy_Portfolio/post/project-7/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://mindy-tran.github.io/Mindy_Portfolio/post/project-7/</guid>
+      <description>Link to GitHub Repository&#xA;Constructed a linear model which predicts the age of an Abalone Processed Abalone data with over 41k data points. Constructed a linear model which predicts the age of an Abalone using SciKit-Learn, a popular library for data science Evaluated the model using the Mean Absolute Error and Mean Absolute Percentage Error for the train and test data </description>
+    </item>
+    <item>
+      <title>Project 8: Alien Jump - Game Project Management</title>
+      <link>https://mindy-tran.github.io/Mindy_Portfolio/post/project-8/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://mindy-tran.github.io/Mindy_Portfolio/post/project-8/</guid>
+      <description>Alien Jump, Level 1 Link to play Alien Jump&#xA;Link to GitHub Repository&#xA;Imagine you are an alien, and after an emergency crash landing onto Earth, you must get back to the mothership to return home.&#xA;This game is inspired by the Doodle Jump mobile game that has a player jumping from platforms and getting vertically higher. There will be static platforms, moving platforms, and enemies that try to make your player fall.</description>
+    </item>
+  </channel>
+</rss>

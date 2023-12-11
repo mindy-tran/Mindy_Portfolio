@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>agglomerative clustering on Mindy Tran&#39;s Portfolio</title>
+    <link>https://mindy-tran.github.io/Mindy_Portfolio/tags/agglomerative-clustering/</link>
+    <description>Recent content in agglomerative clustering on Mindy Tran&#39;s Portfolio</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <atom:link href="https://mindy-tran.github.io/Mindy_Portfolio/tags/agglomerative-clustering/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Project 6: Agglomerative and Divisive Clustering on Paris Housing Data</title>
+      <link>https://mindy-tran.github.io/Mindy_Portfolio/post/project-6/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://mindy-tran.github.io/Mindy_Portfolio/post/project-6/</guid>
+      <description>Link to GitHub Repository&#xA;In this project I apply two different hierarchical clustering algorithms (agglomerative and divisive) to cluster Paris housing data&#xA;Studied the categories of homes in Paris in an unsupervised way based on how big the house is (square footage) and the price. I wanted to determine how many distinct types of homes there are in Paris.&#xA;I determine that the Agglomerative algorithm I used was more “good” than the Divisive algorithm.</description>
+    </item>
+  </channel>
+</rss>

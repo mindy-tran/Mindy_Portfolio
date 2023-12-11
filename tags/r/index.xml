@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>R on Mindy Tran&#39;s Portfolio</title>
+    <link>https://mindy-tran.github.io/Mindy_Portfolio/tags/r/</link>
+    <description>Recent content in R on Mindy Tran&#39;s Portfolio</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <atom:link href="https://mindy-tran.github.io/Mindy_Portfolio/tags/r/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Project 1: Optimally choose targets for CRISPR/Cas9</title>
+      <link>https://mindy-tran.github.io/Mindy_Portfolio/post/project-1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://mindy-tran.github.io/Mindy_Portfolio/post/project-1/</guid>
+      <description> Plesa Lab, unpublished Independently designed a modular data pipeline in R/Python to optimize the output of DropSynth, a novel gene assembly technology developed in the Calin Plesa Lab Collaborated with interdisciplinary lab researchers, prototyped iterations, and implemented feedback from my PI and PhD-level researchers to refine my data pipeline Performed data labeling, cleaning, and modeling to process 2M+ data points and identify target sequences from NGS and protein sequencing data Presented data processing solutions to technical and non-technical audiences at symposiums and conferences after prototyping workflow diagrams Preparing to publish our research and technology developments in 2024 before deploying the gene synthesis tool to R&amp;amp;D institutes and biotechnology startups in the United States Data Pipeline Poster </description>
+    </item>
+    <item>
+      <title>Project 2: ML Hierarchical Clustering Analysis on Single-Cell Sequencing Data</title>
+      <link>https://mindy-tran.github.io/Mindy_Portfolio/post/project-2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://mindy-tran.github.io/Mindy_Portfolio/post/project-2/</guid>
+      <description> Clustering of ss-RNA seq data from the Sylwestrak Lab, isolated neuron populations Link to Written Report&#xA;Studied the impact of chronic morphine use on gene expression in the habenula and results suggest that there are cell populations within the habenula that impact mechanisms that drive addiction Implemented scripts in R to apply machine learning, hierarchical clustering, PCA, and statistical models to NGS sequencing data from the Emily Sylwestrak Lab to identify key genes in opioid-related neurons Analyzed high throughput single-cell RNA sequencing data from Drop-seq to study the genetic basis for neuropsychiatric disorders like addiction and depression </description>
+    </item>
+  </channel>
+</rss>

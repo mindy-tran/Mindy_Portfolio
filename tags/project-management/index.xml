@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>project management on Mindy Tran&#39;s Portfolio</title>
+    <link>https://mindy-tran.github.io/Mindy_Portfolio/tags/project-management/</link>
+    <description>Recent content in project management on Mindy Tran&#39;s Portfolio</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <atom:link href="https://mindy-tran.github.io/Mindy_Portfolio/tags/project-management/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Project 8: Alien Jump - Game Project Management</title>
+      <link>https://mindy-tran.github.io/Mindy_Portfolio/post/project-8/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://mindy-tran.github.io/Mindy_Portfolio/post/project-8/</guid>
+      <description>Alien Jump, Level 1 Link to play Alien Jump&#xA;Link to GitHub Repository&#xA;Imagine you are an alien, and after an emergency crash landing onto Earth, you must get back to the mothership to return home.&#xA;This game is inspired by the Doodle Jump mobile game that has a player jumping from platforms and getting vertically higher. There will be static platforms, moving platforms, and enemies that try to make your player fall.</description>
+    </item>
+  </channel>
+</rss>

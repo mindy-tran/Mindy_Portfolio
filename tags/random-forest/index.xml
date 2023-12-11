@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Random Forest on Mindy Tran&#39;s Portfolio</title>
+    <link>https://mindy-tran.github.io/Mindy_Portfolio/tags/random-forest/</link>
+    <description>Recent content in Random Forest on Mindy Tran&#39;s Portfolio</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <atom:link href="https://mindy-tran.github.io/Mindy_Portfolio/tags/random-forest/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Project 5: Decision Trees and Random Forest Classification</title>
+      <link>https://mindy-tran.github.io/Mindy_Portfolio/post/project-5/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://mindy-tran.github.io/Mindy_Portfolio/post/project-5/</guid>
+      <description>Link to GitHub Repository&#xA;Decision Tree Classification&#xA;Implemented a decision tree classifier from scratch Used the iris dataset to train and test my decision tree model. Assessed the accuracy of your technique using k-fold validation and created visualizations using my model. Results: The purple-colored species has a very consistent petal area and is distinct from the petal areas of the other two species. In comparison, as sepal area increases for the teal-colored species, the petal area also increases and can be less distinguishable from the yellow-colored species.</description>
+    </item>
+  </channel>
+</rss>

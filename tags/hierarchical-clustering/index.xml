@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>hierarchical clustering on Mindy Tran&#39;s Portfolio</title>
+    <link>https://mindy-tran.github.io/Mindy_Portfolio/tags/hierarchical-clustering/</link>
+    <description>Recent content in hierarchical clustering on Mindy Tran&#39;s Portfolio</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <atom:link href="https://mindy-tran.github.io/Mindy_Portfolio/tags/hierarchical-clustering/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Project 2: ML Hierarchical Clustering Analysis on Single-Cell Sequencing Data</title>
+      <link>https://mindy-tran.github.io/Mindy_Portfolio/post/project-2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://mindy-tran.github.io/Mindy_Portfolio/post/project-2/</guid>
+      <description> Clustering of ss-RNA seq data from the Sylwestrak Lab, isolated neuron populations Link to Written Report&#xA;Studied the impact of chronic morphine use on gene expression in the habenula and results suggest that there are cell populations within the habenula that impact mechanisms that drive addiction Implemented scripts in R to apply machine learning, hierarchical clustering, PCA, and statistical models to NGS sequencing data from the Emily Sylwestrak Lab to identify key genes in opioid-related neurons Analyzed high throughput single-cell RNA sequencing data from Drop-seq to study the genetic basis for neuropsychiatric disorders like addiction and depression </description>
+    </item>
+    <item>
+      <title>Project 6: Agglomerative and Divisive Clustering on Paris Housing Data</title>
+      <link>https://mindy-tran.github.io/Mindy_Portfolio/post/project-6/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://mindy-tran.github.io/Mindy_Portfolio/post/project-6/</guid>
+      <description>Link to GitHub Repository&#xA;In this project I apply two different hierarchical clustering algorithms (agglomerative and divisive) to cluster Paris housing data&#xA;Studied the categories of homes in Paris in an unsupervised way based on how big the house is (square footage) and the price. I wanted to determine how many distinct types of homes there are in Paris.&#xA;I determine that the Agglomerative algorithm I used was more “good” than the Divisive algorithm.</description>
+    </item>
+  </channel>
+</rss>
